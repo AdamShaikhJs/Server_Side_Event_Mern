@@ -17,7 +17,9 @@ function App() {
 
   return (
     <div>
+      <h1 style={{textAlign:"center",color:"red"}}>Server side Event handling </h1> 
       <p>Current time from server: {time}</p>
+      <span>------------------ adam Shaikh--------------------------- </span>
     </div>
   );
 }
